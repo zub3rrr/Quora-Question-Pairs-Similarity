@@ -1,0 +1,8 @@
+https://www.kaggle.com/competitions/quora-question-pairs/data
+
+
+
+Note: 
+1. Make Account in Kaggle , if you dont have Kaggle Account.
+2. Download it and unzip in the given folder where you want to store and load data from 
+3. In my case , I have loaded from "./input/quora-question-pairs/".
